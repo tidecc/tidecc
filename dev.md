@@ -26,3 +26,7 @@
 * [百度网站](http://www.baidu.com.cn)
 * [搜狐网站](http://www.sohu.com)
 * [新浪网站](http://www.sina.com)
+
+[Dev-Submodule](http://../dev-submodule.md) 是二级栏目的子模块。  
+通过 MD 文档中的内部路径 URL 可以直接跳转访问。  
+内部路径URL同时可以在超链接中使用。
